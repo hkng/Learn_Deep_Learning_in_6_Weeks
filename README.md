@@ -3,7 +3,7 @@ This is the Curriculum for "Learn Deep Learning in 6 Weeks" by Siraj Raval on Yo
 
 
 ## Overview
-#
+## Test
 
 This is the curriculum for [this](https://youtu.be/_qjNH1rDLm0) video on Youtube by Siraj Raval
 
